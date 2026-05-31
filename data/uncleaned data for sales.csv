@@ -1,0 +1,206 @@
+Order_ID,Customer_Name,Age,Gender,Product,Quantity,Price,Order_Date,City
+1001.0,Meena,26.0,Female,Headphones,2,22333,2023-01-01, Hyderabad 
+1002.0,Arjun,46.0,F,Phone,2,38650,2023-01-02,Delhi
+1003.0,Kiran,56.0,Female,Laptop,3,33674,2023-01-03,Chennai
+1004.0,Arjun,52.0,female ,Phone,1,34854,2023-01-04,Bangalore
+1005.0,Arjun,46.0,M,Tablet,1,45271,2023-01-05,Mumbai
+1006.0,Ravi,,Male,Phone,2,7152,2023-01-06,Mumbai
+1007.0,Kiran,33.0,M,Phone,1,37518,2023-01-07, Hyderabad 
+1008.0,Kiran,-4.0,,Laptop,2,44540,2023-01-08,Delhi
+1009.0,Kiran,-3.0,Female,Laptop,1,9267,2023-01-09,Mumbai
+1010.0,Arjun,50.0,Female,Laptop,3,24289,2023-01-10,Chennai
+1011.0,Meena,53.0, male ,Phone,1,62,2023-01-11, Hyderabad 
+1012.0,Kiran,-4.0,Female,Tablet,1,49448,2023-01-12,Bangalore
+1013.0,Priya,-4.0, male ,Headphones,4,28926,2023-01-13, Hyderabad 
+1014.0,Arjun,48.0,female ,Headphones,2,5229,2023-01-14,Bangalore
+1015.0,Ravi,-5.0,Male,Laptop,1,48277,2023-01-15, Hyderabad 
+1016.0,Meena,13.0,F,Laptop,1,46915,2023-01-16, Hyderabad 
+1017.0,Priya,-4.0, male ,Phone,4,3632,2023-01-17, Hyderabad 
+1018.0,Priya,47.0,Male,Headphones,4,38056,2023-01-18,Bangalore
+1019.0,Ravi,38.0,Female,Laptop,2,2596,2023-01-19,Bangalore
+1020.0,Meena,26.0,Female,Tablet,4,43243,2023-01-20, Hyderabad 
+1021.0,Arjun,64.0,,Tablet,3,5168,2023-01-21,Mumbai
+1022.0,Asha,26.0,Female,Laptop,4,41563,2023-01-22,Delhi
+1023.0,Meena,62.0,female ,Laptop,3,6561,2023-01-23,Delhi
+1024.0,Ravi,49.0,female ,Headphones,2,7258,2023-01-24,Delhi
+1025.0,Priya,69.0,Male,Headphones,2,15616,2023-01-25,Bangalore
+1026.0,Arjun,50.0, male ,Phone,2,25734,2023-01-26,Bangalore
+1027.0,Meena,11.0, male ,Headphones,2,5371,2023-01-27,Mumbai
+1028.0,Asha,,Male,Tablet,2,25069,2023-01-28,Delhi
+1029.0,Asha,18.0, male ,Tablet,3,13369,2023-01-29,Delhi
+1030.0,Kiran,63.0, male ,Laptop,3,11910,2023-01-30, Hyderabad 
+1031.0,Kiran,64.0,female ,Headphones,2,6943,2023-01-31,Bangalore
+1032.0,Ravi,5.0, male ,Phone,4,11199,2023-02-01,Delhi
+1033.0,Meena,10.0,M,Tablet,1,14728,2023-02-02,Mumbai
+,Meena,67.0,F,Tablet,2,22275,2023-02-03,Mumbai
+,Priya,53.0,Female,Phone,4,5738,2023-02-04,Delhi
+1036.0,Priya,64.0,M,Phone,1,14913,2023-02-05,Bangalore
+1037.0,Priya,-3.0, male ,Tablet,2,34240,2023-02-06,Mumbai
+1038.0,Kiran,14.0,female ,Tablet,2,18123,2023-02-07, Hyderabad 
+1039.0,Meena,53.0,Male,Phone,3,47447,2023-02-08,Mumbai
+1040.0,Meena,30.0, male ,Tablet,1,33529,2023-02-09,Chennai
+1041.0,Asha,13.0,female ,Laptop,1,9167,2023-02-10,Chennai
+1042.0,Kiran,61.0,F,Laptop,4,9554,2023-02-11,Bangalore
+1043.0,Arjun,13.0,,Phone,3,16260,2023-02-12,Delhi
+1044.0,Kiran,14.0,Male,Headphones,3,46045,2023-02-13,Bangalore
+1045.0,Arjun,65.0,female ,Phone,3,2812,2023-02-14,Bangalore
+1046.0,Asha,46.0,female ,Phone,3,27024,2023-02-15,Bangalore
+1047.0,Ravi,27.0,female ,Headphones,1,49612,2023-02-16,Bangalore
+,Meena,34.0,F,Headphones,1,26285,2023-02-17, Hyderabad 
+1049.0,Asha,33.0, male ,Headphones,2,25900,2023-02-18, Hyderabad 
+1050.0,Meena,-5.0,,Laptop,2,49885,2023-02-19,Mumbai
+1051.0,Priya,5.0,Female,Tablet,3,605,2023-02-20,Chennai
+1052.0,Ravi,,Female,Laptop,3,4622,2023-02-21,Bangalore
+1053.0,Ravi,44.0, male ,Tablet,3,5767,2023-02-22,Mumbai
+1054.0,Asha,17.0,F,Laptop,2,26139,2023-02-23,Chennai
+1055.0,Ravi,25.0,,Tablet,4,10613,2023-02-24,Delhi
+1056.0,Arjun,36.0,female ,Laptop,4,9589,2023-02-25, Hyderabad 
+1057.0,Ravi,1.0,female ,Headphones,2,12918,2023-02-26,Chennai
+1058.0,Meena,10.0, male ,Phone,2,19119,2023-02-27,Delhi
+1059.0,Meena,54.0,Female,Laptop,2,26446,2023-02-28,Chennai
+1060.0,Meena,-4.0,Female,Tablet,2,12046,2023-03-01, Hyderabad 
+1061.0,Meena,-5.0,female ,Headphones,2,23818,2023-03-02, Hyderabad 
+1062.0,Arjun,42.0, male ,Laptop,2,34358,2023-03-03,Mumbai
+1063.0,Kiran,6.0,F,Laptop,3,49215,2023-03-04,Bangalore
+1064.0,Priya,63.0,Female,Headphones,3,3324,2023-03-05,Chennai
+1065.0,Asha,31.0,F,Laptop,3,9787,2023-03-06,Chennai
+1066.0,Meena,26.0,Female,Phone,3,8111,2023-03-07,Delhi
+1067.0,Ravi,3.0,Female,Laptop,2,37110,2023-03-08, Hyderabad 
+1068.0,Meena,13.0,M,Phone,4,15389,2023-03-09,Chennai
+1069.0,Ravi,42.0,Female,Phone,1,40427,2023-03-10, Hyderabad 
+1070.0,Priya,-3.0,Male,Headphones,2,13043,2023-03-11,Chennai
+1071.0,Priya,14.0, male ,Laptop,1,27746,2023-03-12,Mumbai
+1072.0,Priya,18.0, male ,Headphones,4,21350,2023-03-13,Bangalore
+1073.0,Ravi,48.0,F,Laptop,3,40605,2023-03-14,Chennai
+1074.0,Meena,27.0,Female,Laptop,4,-883,2023-03-15, Hyderabad 
+1075.0,Priya,18.0,Male,Tablet,2,45685,2023-03-16,Mumbai
+1076.0,Arjun,69.0,F,Laptop,3,17935,2023-03-17,Chennai
+1077.0,Ravi,66.0,M,Headphones,2,46077,2023-03-18,Delhi
+1078.0,Ravi,,F,Phone,3,12234,2023-03-19,Bangalore
+1079.0,Meena,32.0,F,Laptop,1,37328,2023-03-20,Chennai
+1080.0,Ravi,19.0,Female,Tablet,1,-154,2023-03-21,Mumbai
+1081.0,Ravi,12.0,M,Headphones,1,9954,2023-03-22,Delhi
+1082.0,Priya,60.0,F,Laptop,4,12703,2023-03-23,Mumbai
+1083.0,Meena,48.0,Male,Headphones,2,47153,2023-03-24,Mumbai
+1084.0,Priya,29.0,Male,Tablet,4,45514,2023-03-25,Delhi
+1085.0,Priya,55.0, male ,Tablet,1,21700,2023-03-26,Mumbai
+1086.0,Meena,35.0,M,Headphones,2,31043,2023-03-27,Delhi
+1087.0,Asha,27.0,M,Laptop,1,5469,2023-03-28,Chennai
+1088.0,Priya,62.0, male ,Phone,4,29105,2023-03-29,Delhi
+1089.0,Arjun,27.0,F,Tablet,4,41101,2023-03-30,Delhi
+1090.0,Arjun,8.0,M,Laptop,4,25386,2023-03-31,Bangalore
+1091.0,Ravi,15.0,Male,Laptop,1,48376,2023-04-01,Delhi
+1092.0,Arjun,42.0,Male,Phone,2,44587,2023-04-02,Delhi
+1093.0,Ravi,,Female,Tablet,2,35976,2023-04-03,Chennai
+1094.0,Asha,2.0,M,Tablet,1,38051,2023-04-04,Bangalore
+1095.0,Meena,1.0,F,Laptop,2,1048,2023-04-05, Hyderabad 
+1096.0,Meena,61.0, male ,Laptop,1,38001,2023-04-06,Chennai
+1097.0,Meena,11.0, male ,Phone,2,11941,2023-04-07,Chennai
+1098.0,Arjun,27.0,F,Phone,3,44375,2023-04-08, Hyderabad 
+1099.0,Asha,42.0,female ,Tablet,3,41533,2023-04-09,Delhi
+1100.0,Arjun,53.0,,Headphones,4,828,2023-04-10,Mumbai
+1101.0,Arjun,16.0, male ,Tablet,3,917,2023-04-11,Bangalore
+1102.0,Asha,24.0,M,Laptop,3,19618,2023-04-12,Mumbai
+1103.0,Asha,32.0,Female,Tablet,3,31254,2023-04-13, Hyderabad 
+1104.0,Asha,45.0,M,Headphones,1,38756,2023-04-14,Chennai
+1105.0,Asha,48.0,Male,Phone,3,46362,2023-04-15,Chennai
+1106.0,Meena,2.0,Female,Headphones,3,19128,2023-04-16,Bangalore
+1107.0,Kiran,21.0, male ,Headphones,4,44745,2023-04-17,Chennai
+1108.0,Kiran,21.0,Female,Headphones,3,-991,2023-04-18,Chennai
+1109.0,Asha,15.0,Female,Phone,3,15644,2023-04-19,Bangalore
+1110.0,Kiran,24.0,Female,Headphones,2,21422,2023-04-20,Bangalore
+1111.0,Kiran,22.0,female ,Headphones,4,8865,2023-04-21, Hyderabad 
+1112.0,Asha,58.0,Female,Headphones,4,1219,2023-04-22,Chennai
+1113.0,Kiran,63.0,M,Laptop,4,38809,2023-04-23,Chennai
+1114.0,Arjun,55.0,Male,Headphones,4,4287,2023-04-24, Hyderabad 
+1115.0,Ravi,42.0,,Phone,4,33387,2023-04-25,Delhi
+1116.0,Ravi,,,Headphones,4,7512,2023-04-26,Delhi
+1117.0,Asha,-2.0, male ,Headphones,1,342,2023-04-27,Delhi
+1118.0,Meena,29.0,Female,Phone,3,42336,2023-04-28, Hyderabad 
+1119.0,Asha,58.0, male ,Headphones,4,18216,2023-04-29,Chennai
+1120.0,Meena,43.0,M,Phone,3,26534,2023-04-30, Hyderabad 
+1121.0,Ravi,11.0, male ,Headphones,3,13231,2023-05-01, Hyderabad 
+1122.0,Asha,38.0,F,Phone,1,31293,2023-05-02,Delhi
+1123.0,Priya,24.0,Male,Headphones,4,25614,2023-05-03,Mumbai
+1124.0,Arjun,40.0, male ,Headphones,2,35258,2023-05-04,Chennai
+1125.0,Kiran,0.0, male ,Laptop,1,27253,2023-05-05,Delhi
+1126.0,Meena,31.0,Male,Laptop,2,41078,2023-05-06,Mumbai
+1127.0,Priya,18.0,F,Headphones,3,39752,2023-05-07,Mumbai
+1128.0,Kiran,40.0,Female,Headphones,3,16988,2023-05-08,Bangalore
+1129.0,Kiran,47.0, male ,Tablet,1,30037,2023-05-09,Chennai
+1130.0,Asha,54.0,Male,Phone,1,11219,2023-05-10,Mumbai
+1131.0,Kiran,57.0,M,Tablet,2,-765,2023-05-11,Delhi
+1132.0,Arjun,,,Laptop,4,41929,2023-05-12,Bangalore
+1133.0,Priya,27.0,M,Laptop,2,908,2023-05-13,Chennai
+1134.0,Kiran,61.0,F,Laptop,1,7567,2023-05-14, Hyderabad 
+1135.0,Asha,12.0,Female,Laptop,2,35298,2023-05-15,Delhi
+1136.0,Arjun,,Male,Headphones,1,4256,2023-05-16,Mumbai
+1137.0,Ravi,48.0,female ,Laptop,2,18019,2023-05-17,Mumbai
+1138.0,Priya,52.0, male ,Headphones,1,7162,2023-05-18,Delhi
+1139.0,Kiran,61.0,F,Headphones,1,4415,2023-05-19,Mumbai
+1140.0,Asha,40.0,Male,Laptop,1,35159,2023-05-20,Bangalore
+1141.0,Ravi,18.0, male ,Laptop,4,42925,2023-05-21,Chennai
+1142.0,Ravi,26.0,Male,Phone,2,4951,2023-05-22,Bangalore
+1143.0,Meena,41.0,M,Tablet,2,20852,2023-05-23,Mumbai
+1144.0,Arjun,,Male,Laptop,2,7007,2023-05-24, Hyderabad 
+1145.0,Kiran,60.0,female ,Phone,1,40832,2023-05-25,Chennai
+1146.0,Asha,21.0,Male,Phone,2,29523,2023-05-26,Chennai
+1147.0,Meena,-4.0,,Tablet,2,22325,2023-05-27,Delhi
+1148.0,Arjun,11.0,female ,Headphones,1,20204,2023-05-28,Delhi
+1149.0,Meena,27.0,F,Laptop,3,14524,2023-05-29, Hyderabad 
+1150.0,Priya,3.0,Male,Tablet,1,18282,2023-05-30,Chennai
+,Arjun,37.0,female ,Laptop,2,22930,2023-05-31, Hyderabad 
+1152.0,Arjun,42.0, male ,Phone,1,-923,2023-06-01,Delhi
+1153.0,Kiran,33.0,M,Phone,3,39345,2023-06-02,Delhi
+1154.0,Arjun,36.0,M,Headphones,1,19611,2023-06-03,Chennai
+1155.0,Meena,20.0,Male,Phone,2,15984,2023-06-04,Bangalore
+1156.0,Arjun,44.0,F,Phone,3,13060,2023-06-05,Mumbai
+1157.0,Kiran,19.0,F,Tablet,4,16449,2023-06-06,Delhi
+1158.0,Kiran,18.0, male ,Laptop,2,17520,2023-06-07,Delhi
+1159.0,Priya,7.0,Male,Laptop,3,42303,2023-06-08,Bangalore
+1160.0,Meena,54.0,M,Tablet,3,8510,2023-06-09,Bangalore
+1161.0,Ravi,1.0,F,Headphones,4,28287,2023-06-10, Hyderabad 
+1162.0,Ravi,51.0,Male,Laptop,1,27173,2023-06-11, Hyderabad 
+1163.0,Arjun,30.0,F,Phone,1,38711,2023-06-12,Mumbai
+1164.0,Priya,39.0,female ,Laptop,2,10954,2023-06-13,Mumbai
+1165.0,Asha,14.0,F,Phone,4,6804,2023-06-14,Chennai
+,Arjun,59.0,M,Headphones,1,5565,2023-06-15, Hyderabad 
+1167.0,Priya,2.0,Female,Tablet,4,4984,2023-06-16,Delhi
+1168.0,Meena,10.0, male ,Laptop,1,20526,2023-06-17, Hyderabad 
+1169.0,Meena,8.0, male ,Tablet,3,36438,2023-06-18,Delhi
+1170.0,Meena,9.0,M,Laptop,1,17574,2023-06-19,Bangalore
+1171.0,Meena,60.0,F,Phone,4,8184,2023-06-20, Hyderabad 
+1172.0,Meena,26.0,Male,Tablet,3,18096,2023-06-21,Bangalore
+1173.0,Priya,57.0,F,Laptop,3,1192,2023-06-22,Mumbai
+1174.0,Priya,45.0,M,Phone,3,33016,2023-06-23,Mumbai
+1175.0,Kiran,19.0, male ,Tablet,4,10246,2023-06-24,Chennai
+1176.0,Ravi,52.0,F,Tablet,2,44558,2023-06-25, Hyderabad 
+1177.0,Meena,57.0, male ,Laptop,2,17381,2023-06-26,Bangalore
+1178.0,Asha,56.0,Male,Laptop,2,35455,2023-06-27,Delhi
+1179.0,Priya,, male ,Laptop,4,25727,2023-06-28,Mumbai
+1180.0,Asha,52.0, male ,Phone,3,3018,2023-06-29,Mumbai
+1181.0,Asha,52.0,Female,Laptop,2,10302,2023-06-30,Delhi
+1182.0,Asha,43.0,Female,Tablet,4,970,2023-07-01,Bangalore
+1183.0,Kiran,46.0,female ,Tablet,2,40157,2023-07-02,Bangalore
+1184.0,Priya,36.0,Female,Laptop,1,26202,2023-07-03, Hyderabad 
+1185.0,Asha,64.0, male ,Laptop,2,30110,2023-07-04, Hyderabad 
+1186.0,Meena,9.0,M,Headphones,2,16586,2023-07-05,Chennai
+1187.0,Arjun,48.0, male ,Tablet,3,23519,2023-07-06,Mumbai
+1188.0,Asha,54.0,M,Phone,4,30273,2023-07-07, Hyderabad 
+1189.0,Kiran,2.0,M,Headphones,3,20951,2023-07-08,Bangalore
+1190.0,Priya,47.0,Female,Laptop,3,14374,2023-07-09,Delhi
+1191.0,Kiran,54.0,F,Laptop,3,4788,2023-07-10,Bangalore
+1192.0,Asha,-1.0,Male,Tablet,3,4408,2023-07-11,Mumbai
+1193.0,Priya,62.0,Female,Laptop,3,24053,2023-07-12,Bangalore
+1194.0,Arjun,0.0,Female,Phone,2,8446,2023-07-13,Chennai
+1195.0,Asha,41.0,F,Tablet,3,-78,2023-07-14,Mumbai
+1196.0,Kiran,49.0,Male,Laptop,3,32187,2023-07-15,Delhi
+1197.0,Ravi,34.0, male ,Tablet,4,9789,2023-07-16,Chennai
+1198.0,Meena,46.0,female ,Laptop,1,31184,2023-07-17,Mumbai
+1199.0,Kiran,10.0,female ,Laptop,2,120,2023-07-18,Delhi
+1200.0,Priya,7.0, male ,Laptop,2,43028,2023-07-19,Chennai
+1001.0,Meena,26.0,Female,Headphones,2,22333,2023-01-01, Hyderabad 
+1002.0,Arjun,46.0,F,Phone,2,38650,2023-01-02,Delhi
+1003.0,Kiran,56.0,Female,Laptop,3,33674,2023-01-03,Chennai
+1004.0,Arjun,52.0,female ,Phone,1,34854,2023-01-04,Bangalore
+1005.0,Arjun,46.0,M,Tablet,1,45271,2023-01-05,Mumbai
